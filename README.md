@@ -6,5 +6,6 @@
 5- git checkout -- .
 6- git log
 7- git commit --amend
-8- gitcheckout -b rama-heroes
+8- git checkout -b rama-heroes
+9- git checkout master
 
